@@ -1,0 +1,15 @@
+# Core packages
+streamlit
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+
+# Date handling
+python-dateutil
